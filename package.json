@@ -1,0 +1,34 @@
+{
+  "name": "glint-widget",
+  "version": "1.0.0",
+  "author": "Andi Neck",
+  "license": "MIT",
+  "description": "Glint Widget",
+  "keywords": [
+    "glintcms",
+    "dublex",
+    "glint",
+    "widget"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-widget.git"
+  },
+  "main": "index.js",
+  "browser": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "defaults": "^1.0.2",
+    "domify": "^1.3.2",
+    "exclusive-or": "^1.0.0",
+    "inherits": "^2.0.1",
+    "is-browser": "^2.0.1",
+    "sliced": "0.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-widget/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-widget"
+}
