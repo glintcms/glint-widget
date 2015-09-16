@@ -1,7 +1,7 @@
 /**********************
  * Module Dependencies.
  *********************/
-var debug = require('debug')('glint:Widget');
+var debug = require('debug')('glint-widget');
 var isBrowser = require('is-browser');
 var defaults = require('defaults');
 var inherits = require('inherits');
